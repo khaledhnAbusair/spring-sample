@@ -1,0 +1,9 @@
+
+:squid:S1166"%Either log or rethrow this exception.(É¿ÜÑ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É«÷²
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ûñ˜œ
+Zsquid:S2147"ECombine this catch with the one at line 100, which has the same body.(É¿ÜÑ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

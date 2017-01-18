@@ -1,0 +1,7 @@
+
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.progressoft.induction.dao.DaoException' which is a runtime exception.(÷ç–Íÿÿÿÿÿ
+qsquid:S3008"WRename this field "INSERT_STATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸æÑøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Àòå›
+Fsquid:S1172"1Remove this unused method parameter "connection".(®Û€Š
+Tsquid:S1161":Add the "@Override" annotation above this method signature(÷ç–Íÿÿÿÿÿ
